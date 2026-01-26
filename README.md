@@ -1,4 +1,12 @@
-# **WinTool's \- Windows Activation Tools 🛠️**
+<p align="center">
+  <img src=https://raw.githubusercontent.com/seb07uk/Windows.Activation.Tools/refs/heads/main/screenshot.png alt="Windows Activation Tools" width="300"/>
+</p>
+<br><br>
+
+<h1 align="center">Windows Activation Tools</h1>
+
+<br><br>
+
 
 A professional, lightweight batch script designed to manage Windows licensing and activation. This tool provides a user-friendly CLI interface to interact with the Windows Software License Management Tool (slmgr).
 
